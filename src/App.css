@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+.App {
+  text-align: center;
+}
+/* .App {
+    font-family: 'Open Sans';
+    background-color: #AFD4C0;
+    width: 100%;
+    min-height: 100vh;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+        /* justify-content: center; */
+  /* } */ 

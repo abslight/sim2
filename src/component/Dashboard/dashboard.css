@@ -1,0 +1,15 @@
+.Dashboard{
+    width: 50vw;
+    background-color: #E5F4EC;
+    margin-top: 75px;
+    margin-left: 480px;
+}
+#dashHead{
+    display: flex;
+    display: -ms-flexbox;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+}
+#dashHead > h1{
+    color: #3b5249;
+}
